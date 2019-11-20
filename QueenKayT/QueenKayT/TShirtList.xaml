@@ -1,0 +1,94 @@
+﻿ 
+    <?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design" 
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:queenkayt="clr-namespace:QueenKayT"
+             mc:Ignorable="d"
+             x:Class="QueenKayT.TShirtList">
+
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Style TargetType="ListView" x:Name="rowHeight" >
+                <Setter Value="100" Property="RowHeight"/>
+            </Style>
+
+        </ResourceDictionary>
+
+    </ContentPage.Resources>
+
+
+
+    <StackLayout>
+
+        <Label Text="Welcome to QueenKay T-Shirt Collection"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" 
+                BackgroundColor="SkyBlue"
+                FontSize="Caption"/>
+
+        <ListView RowHeight="100"  ItemTapped="ListView_ItemTapped">
+            <ListView.ItemsSource>
+                <x:Array Type= "{x:Type queenkayt:TInfo}">
+                    <queenkayt:TInfo Name="Black Tee" Gender="Female" ShippingAdress="Home" TShirtColor="Black"/>
+                    <queenkayt:TInfo Name="Black Tee" Gender="Male" TShirtColor="Black" />
+                    <queenkayt:TInfo Name="SkyBlue Tee" Gender="Female" TShirtColor="SkyBlue" />
+                    <queenkayt:TInfo Name="SkyBlue Tee" Gender="Male" TShirtColor="SkyBlue"/>
+                    <queenkayt:TInfo Name="Red Tee" Gender="Female" TShirtColor="Red" />
+                    <queenkayt:TInfo Name="Red Tee" Gender="Male" TShirtColor="Red" />
+                    <queenkayt:TInfo Name="SeaGreen Tee" Gender="Female" TShirtColor="SeaGreen" />
+                    <queenkayt:TInfo Name="SeaGreen Tee" Gender="Male" TShirtColor="SeaGreen" />
+                    <queenkayt:TInfo Name="Chocolate Tee" Gender="Female" TShirtColor="Chocolate"/>
+                    <queenkayt:TInfo Name="Chocolate Tee" Gender="Male" TShirtColor="Chocolate" />
+                    <queenkayt:TInfo Name="DarkSlateGray Tee" Gender="Female" TShirtColor="DarkSlateGray" />
+                    <queenkayt:TInfo Name="DarkSlateGray Tee" Gender="Male" TShirtColor="DarkSlateGray" />
+                    <queenkayt:TInfo Name="PeachPuff Tee" Gender="Female" TShirtColor="PeachPuff" />
+                    <queenkayt:TInfo Name="PeachPuff Tee" Gender="Male" TShirtColor="PeachPuff" />
+                    <queenkayt:TInfo Name="Yellow Tee" Gender="Female" TShirtColor="Yellow" />
+                    <queenkayt:TInfo Name="Yellow Tee" Gender="Male" TShirtColor="Yellow" />
+                </x:Array>
+            </ListView.ItemsSource>
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell> 
+
+                        <Grid>
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="*"/>
+                                <RowDefinition Height="*"/>
+                                <RowDefinition Height="*"/>
+                            </Grid.RowDefinitions>
+
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="80"/>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="*"/>
+                            </Grid.ColumnDefinitions>
+
+                            <BoxView  BackgroundColor="{Binding TShirtColor}" Grid.Row="0" Grid.Column="0" Grid.RowSpan="3" />
+
+
+
+                            <Label Text="{Binding Name}" Grid.Row="0" Grid.Column="1" Grid.ColumnSpan="2"
+               FontSize="20"
+               FontAttributes="Bold"
+               HorizontalOptions="Start" VerticalOptions="Center" />
+
+                            <Label Text="{Binding Gender}" Grid.Row="1" Grid.Column="1" FontSize="16" />
+
+                        </Grid>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+
+
+
+    </StackLayout>
+
+
+</ContentPage>   
+    
+   

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="QueenKayT.MainPage" BackgroundImageSource="Shirt.jpg">
+    <ContentPage.ToolbarItems>
+
+    </ContentPage.ToolbarItems>
+    <StackLayout>
+        <StackLayout Margin="0" VerticalOptions="StartAndExpand">
+            <Label Text="Name" />
+            <Entry Text="{Binding Name}" />
+            <Label Text="Gender" />
+            <Entry Text="{Binding Gender}" />
+            <Label Text="Tshirt Size" />
+            <Entry Text="{Binding TShirtSize}" />
+            <Label Text="Date of Order" />
+            <Entry Text="{Binding DateOfOrder}" />
+            <Label Text="T-shirt Color" />
+            <Entry Text="{Binding TShirtColor}" />
+            <Label Text="Shipping Address" />
+            <Entry Text="{Binding ShippingAddress}" />
+        </StackLayout>
+        <!-- Place new controls here -->
+        <Button x:Name="SaveButton" Text="Done" Clicked="SaveButton_Clicked"/>
+        <Button Text="Show Shirt Orders" Clicked="Button_Clicked" />
+        <Button x:Name="SignInButton" Text="View T-Shirt Color" Clicked="SignInButton_Clicked"/>
+    </StackLayout>
+</ContentPage>
+

@@ -1,0 +1,15 @@
+C:\Xamarin\QueenKayTSln\QueenKayT\QueenKayT\bin\Debug\netstandard2.0\QueenKayT.deps.json
+C:\Xamarin\QueenKayTSln\QueenKayT\QueenKayT\bin\Debug\netstandard2.0\QueenKayT.dll
+C:\Xamarin\QueenKayTSln\QueenKayT\QueenKayT\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Xamarin\QueenKayTSln\QueenKayT\QueenKayT\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Xamarin\QueenKayTSln\QueenKayT\QueenKayT\obj\Debug\netstandard2.0\QueenKayT.AssemblyInfoInputs.cache
+C:\Xamarin\QueenKayTSln\QueenKayT\QueenKayT\obj\Debug\netstandard2.0\QueenKayT.AssemblyInfo.cs
+C:\Xamarin\QueenKayTSln\QueenKayT\QueenKayT\bin\Debug\netstandard2.0\ref\QueenKayT.dll
+C:\Xamarin\QueenKayTSln\QueenKayT\QueenKayT\bin\Debug\netstandard2.0\QueenKayT.pdb
+C:\Xamarin\QueenKayTSln\QueenKayT\QueenKayT\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Xamarin\QueenKayTSln\QueenKayT\QueenKayT\obj\Debug\netstandard2.0\QueenKayT.dll
+C:\Xamarin\QueenKayTSln\QueenKayT\QueenKayT\obj\Debug\netstandard2.0\ref\QueenKayT.dll
+C:\Xamarin\QueenKayTSln\QueenKayT\QueenKayT\obj\Debug\netstandard2.0\QueenKayT.pdb
+C:\Xamarin\QueenKayTSln\QueenKayT\QueenKayT\obj\Debug\netstandard2.0\TShirtList.xaml.g.cs
+C:\Xamarin\QueenKayTSln\QueenKayT\QueenKayT\obj\Debug\netstandard2.0\QueenKayT.csprojAssemblyReference.cache
+C:\Xamarin\QueenKayTSln\QueenKayT\QueenKayT\obj\Debug\netstandard2.0\OrderPage.xaml.g.cs
