@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Xamarin\\QueenKayTSln\\QueenKayT\\QueenKayT\\QueenKayT.csproj": {}
+    "C:\\Users\\kaylen.linnert\\Documents\\GitHub\\boom\\ShirtsApp\\QueenKayT\\QueenKayT\\QueenKayT.csproj": {}
   },
   "projects": {
-    "C:\\Xamarin\\QueenKayTSln\\QueenKayT\\QueenKayT\\QueenKayT.csproj": {
+    "C:\\Users\\kaylen.linnert\\Documents\\GitHub\\boom\\ShirtsApp\\QueenKayT\\QueenKayT\\QueenKayT.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Xamarin\\QueenKayTSln\\QueenKayT\\QueenKayT\\QueenKayT.csproj",
+        "projectUniqueName": "C:\\Users\\kaylen.linnert\\Documents\\GitHub\\boom\\ShirtsApp\\QueenKayT\\QueenKayT\\QueenKayT.csproj",
         "projectName": "QueenKayT",
-        "projectPath": "C:\\Xamarin\\QueenKayTSln\\QueenKayT\\QueenKayT\\QueenKayT.csproj",
+        "projectPath": "C:\\Users\\kaylen.linnert\\Documents\\GitHub\\boom\\ShirtsApp\\QueenKayT\\QueenKayT\\QueenKayT.csproj",
         "packagesPath": "C:\\Users\\kaylen.linnert\\.nuget\\packages\\",
-        "outputPath": "C:\\Xamarin\\QueenKayTSln\\QueenKayT\\QueenKayT\\obj\\",
+        "outputPath": "C:\\Users\\kaylen.linnert\\Documents\\GitHub\\boom\\ShirtsApp\\QueenKayT\\QueenKayT\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

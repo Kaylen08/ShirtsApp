@@ -1308,11 +1308,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Xamarin\\QueenKayTSln\\QueenKayT\\QueenKayT.iOS\\QueenKayT.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\kaylen.linnert\\Documents\\GitHub\\boom\\ShirtsApp\\QueenKayT\\QueenKayT.iOS\\QueenKayT.iOS.csproj",
       "projectName": "QueenKayT.iOS",
-      "projectPath": "C:\\Xamarin\\QueenKayTSln\\QueenKayT\\QueenKayT.iOS\\QueenKayT.iOS.csproj",
+      "projectPath": "C:\\Users\\kaylen.linnert\\Documents\\GitHub\\boom\\ShirtsApp\\QueenKayT\\QueenKayT.iOS\\QueenKayT.iOS.csproj",
       "packagesPath": "C:\\Users\\kaylen.linnert\\.nuget\\packages\\",
-      "outputPath": "C:\\Xamarin\\QueenKayTSln\\QueenKayT\\QueenKayT.iOS\\obj\\",
+      "outputPath": "C:\\Users\\kaylen.linnert\\Documents\\GitHub\\boom\\ShirtsApp\\QueenKayT\\QueenKayT.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1333,8 +1333,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Xamarin\\QueenKayTSln\\QueenKayT\\QueenKayT\\QueenKayT.csproj": {
-              "projectPath": "C:\\Xamarin\\QueenKayTSln\\QueenKayT\\QueenKayT\\QueenKayT.csproj"
+            "C:\\Users\\kaylen.linnert\\Documents\\GitHub\\boom\\ShirtsApp\\QueenKayT\\QueenKayT\\QueenKayT.csproj": {
+              "projectPath": "C:\\Users\\kaylen.linnert\\Documents\\GitHub\\boom\\ShirtsApp\\QueenKayT\\QueenKayT\\QueenKayT.csproj"
             }
           }
         }

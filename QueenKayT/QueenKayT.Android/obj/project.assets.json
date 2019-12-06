@@ -2089,11 +2089,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Xamarin\\QueenKayTSln\\QueenKayT\\QueenKayT.Android\\QueenKayT.Android.csproj",
+      "projectUniqueName": "C:\\Users\\kaylen.linnert\\Documents\\GitHub\\boom\\ShirtsApp\\QueenKayT\\QueenKayT.Android\\QueenKayT.Android.csproj",
       "projectName": "QueenKayT.Android",
-      "projectPath": "C:\\Xamarin\\QueenKayTSln\\QueenKayT\\QueenKayT.Android\\QueenKayT.Android.csproj",
+      "projectPath": "C:\\Users\\kaylen.linnert\\Documents\\GitHub\\boom\\ShirtsApp\\QueenKayT\\QueenKayT.Android\\QueenKayT.Android.csproj",
       "packagesPath": "C:\\Users\\kaylen.linnert\\.nuget\\packages\\",
-      "outputPath": "C:\\Xamarin\\QueenKayTSln\\QueenKayT\\QueenKayT.Android\\obj\\",
+      "outputPath": "C:\\Users\\kaylen.linnert\\Documents\\GitHub\\boom\\ShirtsApp\\QueenKayT\\QueenKayT.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -2114,8 +2114,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "C:\\Xamarin\\QueenKayTSln\\QueenKayT\\QueenKayT\\QueenKayT.csproj": {
-              "projectPath": "C:\\Xamarin\\QueenKayTSln\\QueenKayT\\QueenKayT\\QueenKayT.csproj"
+            "C:\\Users\\kaylen.linnert\\Documents\\GitHub\\boom\\ShirtsApp\\QueenKayT\\QueenKayT\\QueenKayT.csproj": {
+              "projectPath": "C:\\Users\\kaylen.linnert\\Documents\\GitHub\\boom\\ShirtsApp\\QueenKayT\\QueenKayT\\QueenKayT.csproj"
             }
           }
         }
